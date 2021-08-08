@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### To run the project
+Open a browser with URL http://localhost:8080/ after compiling and hot-reloads for development.
